@@ -1,0 +1,39 @@
+RESUTS FOR TWO ARMS
+
+
+RESULTS FROM PAPAER
+
+0.12998 0.87001
+expected selection fraction  [0.4, 0.6]
+achieved avg selection fraction  [0.53501, 0.46499]
+selection fraction after 100k 0.12998 0.87001
+after running mean =  [0.5011962393226392, 0.500408610937879]
+
+
+RESULTS AFTER ALTERING THE ALGO
+
+expected selection fraction  [0.4, 0.6]
+achieved avg selection fraction  [0.66997, 0.33003]
+selection fraction after 100k 0.39997 0.60002
+after running mean =  [0.4981640968998612, 0.49807593249098575]
+
+
+
+
+RESUTS FOR MULTIARMS
+
+
+RESULTS FROM PAPAER
+
+expected selection fraction  [0.4, 0.45, 0.3, 0.45, 0.3, 0.4]
+achieved selection fraction  [0.4041, 0.45025, 0.3025, 0.44975, 0.6955, 0.60125]
+after running mean =  [0.5173224449393696, 0.5098278734036649, 0.4933884297520661, 0.4744858254585879, 0.7061107117181888, 0.8001663201663186]
+
+
+RESULTS AFTER ALTERING THE ALGO
+
+expected selection fraction  [0.4, 0.45, 0.3, 0.45, 0.3, 0.4]
+achieved selection fraction  [0.55175, 0.3722, 0.30335, 0.37735, 0.6999, 0.5978]
+after running mean =  [0.5246035342093326, 0.5154486835034943, 0.4957969342343827, 0.477540744666755, 0.6995285040720077, 0.8013549682167955]
+
+
